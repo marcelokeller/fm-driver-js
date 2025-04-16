@@ -1,0 +1,69 @@
+:root {
+  --fm-color-coral-100: #fae3e3;
+  --fm-color-coral-400: #e25352;
+  --fm-color-coral-500: #d04c4c;
+  --fm-color-coral-600: #b54242;
+
+  --fm-color-gray-100: #c6c9ca;
+  --fm-color-gray-400: #5d7a89;
+  --fm-color-gray-500: #435862;
+  --fm-color-gray-600: #2e3c43;
+
+  --fm-color-black-400: #263238;
+  --fm-color-black-500: #1e282d;
+  --fm-color-black-700: #111619;
+  --fm-color-black-800: #01071f;
+
+  --fm-color-white-400: #f2f2f2;
+  --fm-color-white-500: #c9c9c9;
+  --fm-color-white-800: #e0e3ec66;
+
+  --fm-color-green-400: #43a047;
+  --fm-color-green-500: #39883c;
+  --fm-color-green-600: #327835;
+
+  --fm-color-yellow-400: #f9a825;
+  --fm-color-yellow-500: #db9421;
+  --fm-color-yellow-600: #bb7e1c;
+
+  --fm-color-red-400: #ed3a3b;
+  --fm-color-red-500: #d63435;
+  --fm-color-red-700: #b22b2c;
+
+  --fm-border-radius-xs: 2px;
+  --fm-border-radius-sm: 4px;
+  --fm-border-radius-md: 8px;
+  --fm-border-radius-lg: 16px;
+
+  --fm-font-family-DEFAULT: Roboto, sans-serif;
+
+  --fm-font-size-body-sm: 12px;
+  --fm-font-size-body-md: 16px;
+  --fm-font-size-body-lg: 20px;
+
+  --fm-font-size-heading-h1: 60px;
+  --fm-font-size-heading-h2: 48px;
+  --fm-font-size-heading-h3: 40px;
+  --fm-font-size-heading-h4: 32px;
+  --fm-font-size-heading-h5: 24px;
+  --fm-font-size-heading-h6: 20px;
+
+  --fm-line-height-body-sm: 20px;
+  --fm-line-height-body-md: 24px;
+  --fm-line-height-body-lg: 32px;
+
+  --fm-line-height-heading-h1: 72px;
+  --fm-line-height-heading-h2: 56px;
+  --fm-line-height-heading-h3: 48px;
+  --fm-line-height-heading-h4: 40px;
+  --fm-line-height-heading-h5: 28px;
+  --fm-line-height-heading-h6: 24px;
+
+  --fm-body-color: var(--fm-color-black-400);
+  --fm-heading-color: var(--fm-color-black-400);
+  --fm-action-color: var(--fm-color-coral-400);
+  --fm-action-hover-color: var(--fm-color-coral-500);
+  --fm-disabled-color: var(--fm-color-gray-400);
+
+  --fm-border-primary: var(--fm-color-black-400);
+}

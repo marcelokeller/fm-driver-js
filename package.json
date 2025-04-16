@@ -1,0 +1,22 @@
+{
+  "name": "fm-driver-js",
+  "version": "1.0.0",
+  "main": "./dist/main.js",
+  "types": "./dist/main.d.ts",
+  "files": [
+    "dist",
+    "styles/driver-theme.css"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "@types/gtag.js": "^0.0.20",
+    "typescript": "~5.7.2",
+    "vite": "^6.2.0"
+  },
+  "dependencies": {
+    "driver.js": "^1.3.5"
+  }
+}

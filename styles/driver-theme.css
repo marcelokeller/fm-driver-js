@@ -1,0 +1,52 @@
+.driver-popover.fm-driver-theme * {
+  font-family: var(--fm-font-family-DEFAULT);
+}
+
+.driver-popover.fm-driver-theme {
+  color: var(--fm-color-black-400);
+  background-color: var(--fm-color-white-400);
+}
+
+.driver-popover.fm-driver-theme .driver-popover-title {
+  font-size: var(--fm-font-size-heading-h6);
+  color: var(--fm-color-coral-400);
+}
+
+.driver-popover.fm-driver-theme .driver-popover-description { 
+    font-size: var(--fm-font-size-body-md);
+}
+
+.driver-popover.fm-driver-theme .driver-popover-close-btn {
+  font-size: 24px;
+  display: grid !important;
+  place-content: center;
+}
+
+.driver-popover.fm-driver-theme .driver-popover-next-btn,
+.driver-popover.fm-driver-theme .driver-popover-prev-btn {
+  padding: 0.5rem 1rem;
+  font-size: var(--fm-font-size-body-md);
+  border: transparent;
+  text-shadow: none;
+}
+
+.driver-popover.fm-driver-theme .driver-popover-next-btn {
+  border-radius: var(--fm-border-radius-sm);
+  background-color: var(--fm-color-coral-400);
+  color: var(--fm-color-white-400);
+  font-weight: bold;
+  text-shadow: none;
+  border: transparent;
+}
+
+.driver-popover.fm-driver-theme .driver-popover-next-btn:hover {
+  background: var(--fm-color-coral-500);
+}
+
+
+.custom-element {
+  background: var(--fm-color-coral-100);
+  color: var(--fm-color-black-400);
+  padding: 12px;
+  border-radius: var(--fm-border-radius-lg);
+}
