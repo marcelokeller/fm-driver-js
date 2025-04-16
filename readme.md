@@ -14,9 +14,9 @@
 
 ---
 
-## 📦 Instalação
+## 📦 Instalação via GitHub Packages
 
-### Via NPM (quando publicado):
+1. Crie (ou edite) um arquivo `.npmrc` na raiz do seu projeto:
 
-```bash
-npm install fm-driver-js
+```ini
+@marcelokeller:registry=https://npm.pkg.github.com
